@@ -1,6 +1,8 @@
 <div><h1 align="center">👋 Hola, Soy Walter Ardila Ramos</h1></div>
 
-<h3>🙎‍♂️Soy un desarrollador web, apasionado por la tecnología y siempre dispuesto a aprender cosas nuevas. Aunque no tengo mucha experiencia aún, estoy constantemente trabajando en proyectos para mejorar mis habilidades y convertir mi pasión en una carrera profesional.</h3><br>
+<h3>¡Hola! 👋 Soy un desarrollador web apasionado por la creación de aplicaciones eficientes y escalables. Me especializo en backend y gestión de bases de datos, trabajando con tecnologías como Django, FastAPI, PostgreSQL, Angular y Next.js.
+💡 Me encanta aprender y enfrentar nuevos desafíos.
+</h3><br>
 
 <h2>🚀 Habilidades en desarrollo:</h2>
 
